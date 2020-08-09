@@ -1,7 +1,7 @@
 # Trafalgar
 
+[**Healthy Switcher**](https://folick.github.io/Healthy-Switcher/) |
 [**Trafalgar**](https://folick.github.io/Trafalgar/) |
-[**Lian**](https://folick.github.io/Lian/) |
-[**Apollo**](https://folick.github.io/Apollo/) | 
+[**Apollo**](https://folick.github.io/Apollo/) |
 [**Oenrique**](https://folick.github.io/Oenrique/) |
 [**Oxygen**](https://folick.github.io/Oxygen/) |
